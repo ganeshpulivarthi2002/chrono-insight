@@ -107,8 +107,10 @@ soupsieve==2.8
 stack-data==0.6.3
 sympy==1.14.0
 terminado==0.18.1
-threadpoolctl==3.6.0
+hreadpoolctl==3.6.0
 tinycss2==1.4.0
+torch==2.9.0+cpu
+torch==2.9.0+cpu
 torch==2.9.0+cpu
 tornado==6.5.2
 traitlets==5.14.3
