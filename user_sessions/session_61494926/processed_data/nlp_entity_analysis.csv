@@ -1,0 +1,14 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,23,"{'neutral': 14, 'negative': 4, 'positive': 2}","economic, skills_wages, employment",0.0
+division,3,{'negative': 3},"employment, skills_wages",0.0
+trad,2,{'neutral': 2},"skills_wages, economic",0.0
+javakhishvili,1,{'neutral': 1},economic,0.0
+tbilisi,1,{'neutral': 1},economic,0.0
+state,1,{'neutral': 1},economic,0.0
+university,1,{'neutral': 1},economic,0.0
+artificial,1,{'neutral': 1},economic,0.0
+intelligence,1,{'neutral': 1},economic,0.0
+oecd,1,{'neutral': 1},economic,274.0
+digital,1,{'neutral': 1},economic,274.0
+economy,1,{'neutral': 1},economic,274.0
+papers,1,{'neutral': 1},economic,274.0

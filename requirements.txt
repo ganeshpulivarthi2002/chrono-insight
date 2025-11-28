@@ -1,0 +1,9 @@
+pandas
+dash
+plotly
+wordcloud
+PyPDF2
+spacy==3.7.5
+transformers
+torch
+sentencepiece

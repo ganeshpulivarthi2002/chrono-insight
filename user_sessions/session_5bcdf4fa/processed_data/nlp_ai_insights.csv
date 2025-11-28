@@ -1,0 +1,62 @@
+doc_id,sentence,pattern_type,matched_text,ai_similarity,impact_verbs,affected_entities,magnitudes,timeframes,sentence_length,domain,impact_type,primary_magnitude,sentiment_score
+ssrn-5045832,"Javakhishvili Tbilisi State University , E -mail: 
+demur.sichinava@tsu.ge     
+     
+ABSTRACT  
+This paper explores the dual impact of Artificial Intelligence (AI) on employment, examining both 
+the job creation opportunities and the displacement risks AI brings to labor markets.",ECONOMIC_IMPACT,impact,0.4768202199273302,[],"['javakhishvili', 'tbilisi', 'state', 'university', 'artificial', 'intelligence', 'ai']",[],[],45,economic,neutral,,0.916171669960022
+ssrn-5045832,"The paper discusses the challenge of skill mismatches 
+between trad itional education systems and the evolving needs of the AI -driven economy.",SKILL_WAGE_IMPACT,skill,0.4755262311693366,[],"['trad', 'ai']",[],[],24,skills_wages,neutral,,0.9016425013542175
+ssrn-5045832,"The paper discusses the challenge of skill mismatches 
+between trad itional education systems and the evolving needs of the AI -driven economy.",ECONOMIC_IMPACT,economy,0.4755262311693366,[],"['trad', 'ai']",[],[],24,economic,neutral,,0.9016425013542175
+ssrn-5045832,"Conversely, regions slow to adopt AI risk economic stagna tion.",ECONOMIC_IMPACT,economic,0.4894927922797352,[],['ai'],[],[],12,economic,neutral,,0.5671035647392273
+ssrn-5045832,Government policy plays a key role in managing AI’s impact on employment.,ECONOMIC_IMPACT,impact,0.5056579383955171,[],['ai'],[],[],14,economic,neutral,,0.7252541184425354
+ssrn-5045832,Regions that fall behind in AI adoption risk higher unemployment and economic stagnation.,ECONOMIC_IMPACT,economic,0.5516762009016494,[],['ai'],[],[],14,economic,negative,,0.6984883546829224
+ssrn-5045832,"The key 
+challenge will be ensuring that workers are prepared for new roles  while addressing the ethical and 
+social issues surrounding AI, such as wage inequality and job displacement.",SKILL_WAGE_IMPACT,wage,0.4423698719642586,[],['ai'],[],[],34,skills_wages,neutral,,0.781207799911499
+ssrn-5045832,"However, this dual impact of AI highlights a skills' paradox.",ECONOMIC_IMPACT,impact,0.4316239130633617,[],['ai'],[],[],13,economic,neutral,,0.7598808407783508
+ssrn-5045832,"Low -to-medium skilled workers, on  the other hand, face wage 
+stagnation or job displacement, deepening economic inequality.",SKILL_WAGE_IMPACT,wage,0.4868961349339235,[],[],[],[],25,skills_wages,negative,,0.7349844574928284
+ssrn-5045832,"Low -to-medium skilled workers, on  the other hand, face wage 
+stagnation or job displacement, deepening economic inequality.",ECONOMIC_IMPACT,economic,0.4868961349339235,[],[],[],[],25,economic,negative,,0.7349844574928284
+ssrn-5045832,"In c ontrast, regions with limited educational infrastructure 
+struggle to adapt to the AI -driven economy.",ECONOMIC_IMPACT,economy,0.45448636292432454,[],['ai'],[],[],19,economic,neutral,,0.56778883934021
+ssrn-5045832,"In conclusion, while AI presents challenges such as job 
+displacement and wage inequality, it also offers significant opportunities for job creation and 
+economic growth.",SKILL_WAGE_IMPACT,wage,0.45341116940211706,[],['ai'],[],[],29,skills_wages,positive,,0.6459562182426453
+ssrn-5045832,"In conclusion, while AI presents challenges such as job 
+displacement and wage inequality, it also offers significant opportunities for job creation and 
+economic growth.",ECONOMIC_IMPACT,economic,0.45341116940211706,[],['ai'],[],[],29,economic,positive,,0.6459562182426453
+ssrn-5045832,"A coordinated approach fro m governments, businesses, and educational 
+institutions is needed to equip the workforce with the skills necessary to thrive in the evolving AI -
+driven economy.",ECONOMIC_IMPACT,economy,0.4522489794226313,[],[],[],[],34,economic,neutral,,0.587153971195221
+ssrn-5045832,"While AI offers 
+significant opportunities for growth, innovation, and productivity, it als o brings challenges such 
+as labor market displacement, income inequality, and the ethical use of technology.",SKILL_WAGE_IMPACT,income,0.40226579621015646,[],['ai'],[],[],36,skills_wages,neutral,,0.6411725282669067
+ssrn-5045832,"Immediate measures to a ddress job displacement must 
+be coupled with long -term strategies to equip future generations with the skills needed in an AI 
+economy.",ECONOMIC_IMPACT,economy,0.40120479456624936,[],['ai'],[],[],29,economic,neutral,,0.8137562274932861
+ssrn-5045832,"Another significant challenge posed by AI adoption is labor market disruption, which could 
+exacerbate income inequality and create divisions between those who benefit from AI -driven 
+productivity gains and those whose jobs are displaced.",SKILL_WAGE_IMPACT,income,0.42588983361038724,"['create', 'displace']","['ai', 'ai', 'division']",[],[],38,skills_wages,negative,,0.6555190086364746
+ssrn-5045832,"Another significant challenge posed by AI adoption is labor market disruption, which could 
+exacerbate income inequality and create divisions between those who benefit from AI -driven 
+productivity gains and those whose jobs are displaced.",JOB_IMPACT,create,0.42588983361038724,"['create', 'displace']","['ai', 'ai', 'division']",[],[],38,employment,negative,,0.6555190086364746
+ssrn-5045832,"Another significant challenge posed by AI adoption is labor market disruption, which could 
+exacerbate income inequality and create divisions between those who benefit from AI -driven 
+productivity gains and those whose jobs are displaced.",JOB_IMPACT,displaced,0.42588983361038724,"['create', 'displace']","['ai', 'ai', 'division']",[],[],38,employment,negative,,0.6555190086364746
+ssrn-5045832,"One potential solution is the 
+introduction of a Universal Basic Income (UBI), which could provide a financial safety net for 
+individuals whose jobs are displaced by AI an d automation.",SKILL_WAGE_IMPACT,Income,0.4223933896158542,['displace'],['ai'],['One'],[],36,skills_wages,neutral,One,0.7509276270866394
+ssrn-5045832,"One potential solution is the 
+introduction of a Universal Basic Income (UBI), which could provide a financial safety net for 
+individuals whose jobs are displaced by AI an d automation.",JOB_IMPACT,displaced,0.4223933896158542,['displace'],['ai'],['One'],[],36,employment,neutral,One,0.7509276270866394
+ssrn-5045832,"Policies like progressive taxation, universal basic income  (UBI), and promoting AI 
+innovation can help mitigate the social and economic challenges posed by automation. 
+",SKILL_WAGE_IMPACT,income,0.4130715046334602,[],['ai'],[],[],31,skills_wages,neutral,,0.5777840614318848
+ssrn-5045832,"Policies like progressive taxation, universal basic income  (UBI), and promoting AI 
+innovation can help mitigate the social and economic challenges posed by automation. 
+",ECONOMIC_IMPACT,economic,0.4130715046334602,[],['ai'],[],[],31,economic,neutral,,0.5777840614318848
+ssrn-5045832,"OECD Digital Economy Papers 
+No. 274.",ECONOMIC_IMPACT,Economy,0.4154035859745523,[],"['oecd', 'digital', 'economy', 'papers']",['274'],[],9,economic,neutral,274,0.8867258429527283

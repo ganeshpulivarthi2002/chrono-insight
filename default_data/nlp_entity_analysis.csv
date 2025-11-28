@@ -1,0 +1,35 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,100,"{'neutral': 43, 'positive': 40, 'negative': 17}","economic, employment, general",8.2
+workers,61,"{'neutral': 28, 'positive': 19, 'negative': 14}","employment, productivity",4.9
+google,57,"{'neutral': 29, 'positive': 21, 'negative': 7}","technology, productivity, economic",7.2
+job,56,"{'neutral': 36, 'positive': 10}","employment, economic, general",8.6
+automation,52,"{'neutral': 28, 'positive': 7, 'negative': 17}","productivity, employment, economic",3.6
+intelligence,46,"{'neutral': 35, 'positive': 9, 'negative': 1}","economic, general, employment",6.3
+productivity,44,"{'positive': 24, 'neutral': 20}","employment, productivity, economic",9.4
+openai,44,"{'neutral': 21, 'positive': 18, 'negative': 5}","technology, economic, general",6.8
+ml,42,"{'neutral': 30, 'positive': 7, 'negative': 2}","economic, employment, general",5.1
+investment,38,"{'neutral': 13, 'negative': 1}","economic, employment",3.3
+opportunity,35,"{'positive': 24, 'neutral': 11}","employment, productivity, economic",7.4
+healthcare,31,"{'neutral': 12, 'positive': 16, 'negative': 3}","healthcare, economic, general",5.8
+robotics,29,"{'neutral': 13, 'positive': 11, 'negative': 5}","productivity, employment, economic",6.4
+task,28,"{'neutral': 18, 'positive': 8, 'negative': 1}","employment, general, economic",5
+deep_learning,27,"{'neutral': 14, 'positive': 10, 'negative': 3}","general, education",5.8
+european,24,{'neutral': 20},"economic, employment, skills_wages",5
+economic,24,{'neutral': 24},"economic, employment",5
+international,23,{'neutral': 17},"economic, skills_wages, employment",5
+meta,23,"{'neutral': 11, 'positive': 7, 'negative': 5}","general, economic, social",5.3
+consumers,22,"{'neutral': 11, 'positive': 8, 'negative': 3}","general, economic",4.7
+world,21,{'neutral': 21},"economic, employment",5
+employment,20,"{'neutral': 18, 'positive': 2}","economic, employment",5.2
+neural_networks,19,"{'neutral': 10, 'positive': 7, 'negative': 2}",general,5.1
+report,17,{'neutral': 17},"economic, employment",5
+us,17,"{'neutral': 16, 'negative': 1}","employment, productivity, general",4.8
+learning,17,"{'neutral': 8, 'positive': 3}","economic, education, general",5.1
+innovation,17,{'neutral': 17},"economic, employment",5
+ethics,17,"{'neutral': 9, 'positive': 4, 'negative': 4}","general, policy, education",5
+society,16,"{'neutral': 8, 'positive': 2}","economic, employment, skills_wages",5.2
+data,15,{'neutral': 15},"economic, employment, general",5
+telecommunications,14,{'neutral': 8},"economic, skills_wages",4.9
+education,13,{'neutral': 13},"economic, productivity, education",4.8
+digital,13,{'neutral': 13},"economic, skills_wages",5
+computer,13,"{'neutral': 9, 'positive': 1}","employment, general, productivity",5.6

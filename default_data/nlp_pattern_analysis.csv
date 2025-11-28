@@ -1,0 +1,7 @@
+pattern_type,insight_count,avg_ai_similarity,success_rate,domains_found
+ECONOMIC_IMPACT,367,0.469938812,36.4448858,economic
+JOB_IMPACT,243,0.480876741,24.13108242,"employment, productivity"
+TIMEFRAME,103,0.474018265,10.22840119,"general, productivity, economic, healthcare, employment"
+DEPENDENCY_ANALYSIS,169,0.488702529,16.78252234,"general, productivity, education"
+PRODUCTIVITY_IMPACT,19,0.485523354,1.886792453,"productivity, employment"
+SKILL_WAGE_IMPACT,106,0.469132243,10.52631579,skills_wages

@@ -1,0 +1,4 @@
+pattern_type,insight_count,avg_ai_similarity,success_rate,domains_found
+ECONOMIC_IMPACT,13,0.46211690981493747,54.166666666666664,economic
+SKILL_WAGE_IMPACT,8,0.44022799144243674,33.33333333333333,skills_wages
+JOB_IMPACT,3,0.4247243522788762,12.5,employment

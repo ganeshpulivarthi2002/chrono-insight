@@ -1,0 +1,9 @@
+domain,impact_type,insight_count,avg_magnitude,avg_ai_similarity,common_verbs
+economic,neutral,10,274.0,0.4515536322356498,[]
+economic,negative,2,0.0,0.5192861679177865,[]
+economic,positive,1,0.0,0.45341116940211706,[]
+skills_wages,neutral,5,0.0,0.43112535871861324,displace
+skills_wages,negative,2,0.0,0.45639298427215536,"create, displace"
+skills_wages,positive,1,0.0,0.45341116940211706,[]
+employment,negative,2,0.0,0.42588983361038724,"create, displace"
+employment,neutral,1,0.0,0.4223933896158542,displace
