@@ -38,14 +38,20 @@ COLORS = {
 }
 
 # ---------- Configuration ----------
-BASE_PATH = "/project/workspace/"
+# Correct base path for Render
+BASE_PATH = "/opt/render/project/src"
+
 DEFAULT_DATA_PATH = f"{BASE_PATH}/default_data"
 USER_SESSIONS_PATH = f"{BASE_PATH}/user_sessions"
 TEMP_PATH = f"{BASE_PATH}/temp"
 
-# Create directories if they don't exist
+# Create directories if they don't exist (Render allows writing here)
 for path in [DEFAULT_DATA_PATH, USER_SESSIONS_PATH, TEMP_PATH]:
-    os.makedirs(path, exist_ok=True)
+    try:
+        os.makedirs(path, exist_ok=True)
+    except Exception as e:
+        print(f"DEBUG: Cannot create directory {path}: {e}")
+
 
 # ---------- Session Manager Class ----------
 class SessionManager:
