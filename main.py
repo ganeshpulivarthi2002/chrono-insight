@@ -1458,6 +1458,7 @@ def update_ai(domain_v, impact_v, time_v, refresh_data):
     return fig, data, cols
 
 # ---------- Run ----------
+server = app.server
 if __name__ == '__main__':
     print("Starting Chrono-Insight Dashboard...")
     print("Features: Professional Design, Enhanced Analytics, Clean Interface")
